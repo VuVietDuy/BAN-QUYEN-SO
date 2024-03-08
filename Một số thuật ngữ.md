@@ -1,0 +1,9 @@
+- **Plaintext** (Bản rõ): là thông tin ban đầu chưa được che giấu
+- **Ciphertext** (Bản mã): là kết quả của quá trình mã hoá plaintext, là dạng dữ liệu được che giấu
+- **Key** (Khoá): Còn gọi là cryptographic key (khoá mật mã), là một mẩu thông tin dưới dạng chuỗi số hoặc chữ cái, được sử dụng trong quá trình mã hoá và giải mã.
+- **Cipher**: Là thuật toán dùng để má hoá và giải mã dữ liệu.
+- **Decipher** (Phá mã): Là thuật toán dùng để tấn công vào ciphertext với mục tiêu tiếp cận đến plaintext mà không cần tới key.
+- **Encryption**: Là quá trình mã hoá thông tin từ plaintext thành ciphertext sử dụng cipher và key phù hợp.
+- **Decryption**: Là quá trình đưa ciphertext về plaintext sử dụng cipher và key phù hợp.
+- **Encrypt** (Mã hoá): Là hành động biến plaintext thành dạng ciphertext.
+- **Decrypt** (Giải mã): Là hành động đưa ciphertext về plaintext sử dụng cipher và key phù hợp.
